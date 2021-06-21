@@ -17,6 +17,7 @@
                 "seasonStage": "4",
                 "statusShortGame": "3",
                 "statusGame": "Finished",
+		"simple_score": "111-115",
                 "vTeam": {
                     "teamId": "21",
                     "shortName": "MIL",
@@ -56,6 +57,7 @@
                 "seasonStage": "4",
                 "statusShortGame": "3",
                 "statusGame": "Finished",
+		"simple_score": "120-114",
                 "vTeam": {
                     "teamId": "16",
                     "shortName": "LAC",
