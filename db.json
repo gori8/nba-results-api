@@ -1,84 +1,91 @@
 {
-        "games": [        
-            {
-                "seasonYear": "2020",
-                "league": "standard",
-                "gameId": "9460",
-                "startTimeUTC": "2021-06-20T00:30:00.000Z",
-                "endTimeUTC": "2021-06-20T03:27:00.000Z",
-                "arena": "Barclays Center",
-                "city": "Brooklyn",
-                "country": "USA",
-                "clock": "",
-                "gameDuration": "2:55",
-                "currentPeriod": "5/4",
-                "halftime": "0",
-                "EndOfPeriod": "0",
-                "seasonStage": "4",
-                "statusShortGame": "3",
-                "statusGame": "Finished",
-		"simple_score": "111-115",
-                "vTeam": {
-                    "teamId": "21",
-                    "shortName": "MIL",
-                    "fullName": "Milwaukee Bucks",
-                    "nickName": "Bucks",
-                    "logo": "https://upload.wikimedia.org/wikipedia/fr/3/34/Bucks2015.png",
-                    "score": {
-                        "points": "115"
-                    }
-                },
-                "hTeam": {
-                    "teamId": "4",
-                    "shortName": "BKN",
-                    "fullName": "Brooklyn Nets",
-                    "nickName": "Nets",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/130px-Brooklyn_Nets_newlogo.svg.png",
-                    "score": {
-                        "points": "111"
-                    }
-                }
-            },
-         
-            {
-                "seasonYear": "2020",
-                "league": "standard",
-                "gameId": "9453",
-                "startTimeUTC": "2021-06-20T19:30:00.000Z",
-                "endTimeUTC": "2021-06-20T21:50:00.000Z",
-                "arena": "Phoenix Suns Arena",
-                "city": "Phoenix",
-                "country": "USA",
-                "clock": "",
-                "gameDuration": "2:11",
-                "currentPeriod": "4/4",
-                "halftime": "0",
-                "EndOfPeriod": "0",
-                "seasonStage": "4",
-                "statusShortGame": "3",
-                "statusGame": "Finished",
-		"simple_score": "120-114",
-                "vTeam": {
-                    "teamId": "16",
-                    "shortName": "LAC",
-                    "fullName": "LA Clippers",
-                    "nickName": "Clippers",
-                    "logo": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Los_Angeles_Clippers_logo_2010.png",
-                    "score": {
-                        "points": "114"
-                    }
-                },
-                "hTeam": {
-                    "teamId": "28",
-                    "shortName": "PHX",
-                    "fullName": "Phoenix Suns",
-                    "nickName": "Suns",
-                    "logo": "https://upload.wikimedia.org/wikipedia/fr/5/56/Phoenix_Suns_2013.png",
-                    "score": {
-                        "points": "120"
-                    }
-                }
-            }
-        ]
-    
+  "games": [
+    {
+      "seasonYear": "2020",
+      "league": "standard",
+      "gameId": "9460",
+      "startTimeUTC": "2021-06-20T00:30:00.000Z",
+      "endTimeUTC": "2021-06-20T03:27:00.000Z",
+      "arena": "Barclays Center",
+      "city": "Brooklyn",
+      "country": "USA",
+      "clock": "",
+      "gameDuration": "2:55",
+      "currentPeriod": "5/4",
+      "halftime": "0",
+      "EndOfPeriod": "0",
+      "seasonStage": "4",
+      "statusShortGame": "3",
+      "statusGame": "Finished",
+      "oracle_score": "s-111-115-9460",
+      "oracle_quotas": "q-180-720-220-9460",
+      "quota1": 1.8,
+      "quotaX": 7.2,
+      "quota2": 2.2,
+      "vTeam": {
+        "teamId": "21",
+        "shortName": "MIL",
+        "fullName": "Milwaukee Bucks",
+        "nickName": "Bucks",
+        "logo": "https://upload.wikimedia.org/wikipedia/fr/3/34/Bucks2015.png",
+        "score": {
+          "points": "115"
+        }
+      },
+      "hTeam": {
+        "teamId": "4",
+        "shortName": "BKN",
+        "fullName": "Brooklyn Nets",
+        "nickName": "Nets",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/130px-Brooklyn_Nets_newlogo.svg.png",
+        "score": {
+          "points": "111"
+        }
+      }
+    },
+
+    {
+      "seasonYear": "2020",
+      "league": "standard",
+      "gameId": "9453",
+      "startTimeUTC": "2021-06-20T19:30:00.000Z",
+      "endTimeUTC": "2021-06-20T21:50:00.000Z",
+      "arena": "Phoenix Suns Arena",
+      "city": "Phoenix",
+      "country": "USA",
+      "clock": "",
+      "gameDuration": "2:11",
+      "currentPeriod": "4/4",
+      "halftime": "0",
+      "EndOfPeriod": "0",
+      "seasonStage": "4",
+      "statusShortGame": "3",
+      "statusGame": "Finished",
+      "oracle_score": "s-120-114-9453",
+      "oracle_quotas": "q-160-920-250-9453",
+      "quota1": 1.6,
+      "quotaX": 9.2,
+      "quota2": 2.5,
+      "vTeam": {
+        "teamId": "16",
+        "shortName": "LAC",
+        "fullName": "LA Clippers",
+        "nickName": "Clippers",
+        "logo": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Los_Angeles_Clippers_logo_2010.png",
+        "score": {
+          "points": "114"
+        }
+      },
+      "hTeam": {
+        "teamId": "28",
+        "shortName": "PHX",
+        "fullName": "Phoenix Suns",
+        "nickName": "Suns",
+        "logo": "https://upload.wikimedia.org/wikipedia/fr/5/56/Phoenix_Suns_2013.png",
+        "score": {
+          "points": "120"
+        }
+      }
+    }
+  ]
 }
