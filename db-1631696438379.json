@@ -1,5 +1,128 @@
 {
-  "bets": [],
+  "bets": [
+    {
+      "eth_address": "0xf12Cf4cC19bAecb6c0549aaF23a4741F7Ceb304C",
+      "bet": [
+        {
+          "gameId": "9460",
+          "game": "BKN - MIL",
+          "betOn": 2,
+          "quota": "2.3"
+        }
+      ],
+      "status": "2",
+      "lastGameEndTime": "2021-06-20T03:27:00.000Z",
+      "id": 2
+    },
+    {
+      "eth_address": "0xf12Cf4cC19bAecb6c0549aaF23a4741F7Ceb304C",
+      "bet": [
+        {
+          "gameId": "9460",
+          "game": "BKN - MIL",
+          "betOn": 2,
+          "quota": "2.3"
+        }
+      ],
+      "status": "2",
+      "lastGameEndTime": "2021-06-20T03:27:00.000Z",
+      "id": 3
+    },
+    {
+      "eth_address": "0xf12Cf4cC19bAecb6c0549aaF23a4741F7Ceb304C",
+      "bet": [
+        {
+          "gameId": "9460",
+          "game": "BKN - MIL",
+          "betOn": 2,
+          "quota": "2.3"
+        }
+      ],
+      "status": "2",
+      "lastGameEndTime": "2021-06-20T03:27:00.000Z",
+      "id": 4
+    },
+    {
+      "eth_address": "0xf12Cf4cC19bAecb6c0549aaF23a4741F7Ceb304C",
+      "bet": [
+        {
+          "gameId": "9460",
+          "game": "BKN - MIL",
+          "betOn": 2,
+          "quota": "2.3"
+        },
+        {
+          "gameId": "9453",
+          "game": "PHX - LAC",
+          "betOn": 1,
+          "quota": "2.2"
+        }
+      ],
+      "status": "2",
+      "lastGameEndTime": "2021-06-20T21:50:00.000Z",
+      "id": 5
+    },
+    {
+      "eth_address": "0xf12Cf4cC19bAecb6c0549aaF23a4741F7Ceb304C",
+      "bet": [
+        {
+          "gameId": "9460",
+          "game": "BKN - MIL",
+          "betOn": 2,
+          "quota": "2.3"
+        },
+        {
+          "gameId": "9453",
+          "game": "PHX - LAC",
+          "betOn": 1,
+          "quota": "2.2"
+        }
+      ],
+      "status": "2",
+      "lastGameEndTime": "2021-06-20T21:50:00.000Z",
+      "id": 6
+    },
+    {
+      "eth_address": "0xf12Cf4cC19bAecb6c0549aaF23a4741F7Ceb304C",
+      "bet": [
+        {
+          "gameId": "9460",
+          "game": "BKN - MIL",
+          "betOn": 1,
+          "quota": "2.5"
+        },
+        {
+          "gameId": "9453",
+          "game": "PHX - LAC",
+          "betOn": 1,
+          "quota": "2.2"
+        }
+      ],
+      "status": "1",
+      "lastGameEndTime": "2021-06-20T21:50:00.000Z",
+      "id": 7
+    },
+    {
+      "eth_address": "0xf12Cf4cC19bAecb6c0549aaF23a4741F7Ceb304C",
+      "bet": [
+        {
+          "gameId": "9460",
+          "game": "BKN - MIL",
+          "betOn": 2,
+          "quota": "2.3"
+        },
+        {
+          "gameId": "9453",
+          "game": "PHX - LAC",
+          "betOn": 1,
+          "quota": "2.2"
+        }
+      ],
+      "status": "2",
+      "lastGameEndTime": "2021-06-20T21:50:00.000Z",
+      "id": 8
+    }
+  ],
   "games": [
     {
       "seasonYear": "2020",
@@ -264,11 +387,11 @@
         }
       },
       "date": "2021-06-20",
-      "quota1": "2.0",
+      "quota1": "2.5",
       "quotaX": "10.4",
       "quota2": "2.3",
       "oracle_score": "s-111-115-9460",
-      "oracle_quotas": "q-200-1040-230-9460",
+      "oracle_quotas": "q-250-1040-230-9460",
       "id": 90
     },
     {
